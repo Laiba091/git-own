@@ -6,3 +6,4 @@ b = 3
 sum = a + b
 
 print("Sum is:", sum)
+print("hi the sum is")
